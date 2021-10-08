@@ -1,0 +1,22 @@
+.counter_layout{
+    margin: 10rem 30rem;
+    display: inline-block;
+    text-align: center
+}
+.counter{
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.button_{
+    padding:2rem;
+    border-radius: 2rem;
+    background-color: rgb(114, 119, 105);
+    border:none;
+    font-size: 2rem;
+    font-weight: bold;
+    justify-content: space-around;
+}
+.main{
+    display: inline-flex;
+}
